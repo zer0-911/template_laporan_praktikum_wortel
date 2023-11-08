@@ -65,3 +65,5 @@ Setelah instalasi, Anda dapat memulai dengan membuat file baru dengan ekstensi `
 Kami sangat terbuka terhadap kontribusi dari semua pihak. Jika Anda ingin berkontribusi dengan memperbaiki atau melengkapi template ini, silakan buat _pull request_ ke repositori template kami.
 
 ## Lisensi
+
+Template Laporan Praktikum Workshop Telematika ini dilisensikan di bawah [lisensi MIT](LICENSE).
