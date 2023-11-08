@@ -1,0 +1,17 @@
+# LaTeX files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.pdf
+*.fdb_latexmk
+*.fls
+*.gz
+*.toc
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# PDF files
+*.pdf

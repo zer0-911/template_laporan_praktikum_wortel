@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx} 
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{lipsum}
+\usepackage[bahasa]{babel}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{indentfirst}
+
+\title{Laporan Praktikum  \\ Dasar Telematika} % Ganti sesuai modul praktikum yang diikuti
+\author{Moh. Iqbal Fatchurozi \\ 5024201009} % Ganti dengan NRP dan Nama Kalian
+
+\date{}
+
+
+\fancypagestyle{firstpageheader}{
+  \fancyhf{} 
+  \fancyhead[L]{\includegraphics[height=1.5cm]{img/logodepart.png}} 
+  \fancyhead[R]{Institut Teknologi Sepuluh Nopember \\ Departemen Teknik Komputer \\ Laboratorium Robotika dan Sistem Cerdas} 
+  \renewcommand{\headrulewidth}{0pt} 
+  \fancyfoot[C]{%
+    \includegraphics[width=\textwidth]{img/footer.png}
+  }
+  \renewcommand{\footrulewidth}{0pt} % No line in the footer
+}
+
+
+\fancyhf{} 
+\fancyfoot[C]{%
+  \includegraphics[width=\textwidth]{img/footer.png}
+}
+\renewcommand{\headrulewidth}{0pt} 
+\renewcommand{\footrulewidth}{0pt} 
+
+\pagestyle{fancy}
+\begin{document}
+\selectlanguage{bahasa}
+\maketitle
+\thispagestyle{firstpageheader}
+\input{Bab/1_TugasPendahuluan.tex}
+\input{Bab/2_AnalisisHasilPraktikum.tex}
+\input{Bab/3_Lampiran.tex}
+\end{document}

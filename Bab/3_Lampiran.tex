@@ -1,0 +1,25 @@
+% Bagian Lampiran
+\section*{Lampiran} % Jika ada lampiran
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.2\linewidth]{img/contohgambar.png}
+  \caption{Ini Caption} 
+  \label{fig:inirujukan}
+\end{figure}
+\vspace{0pt}
+\begin{figure}[H]
+  \centering
+  % Kalau mau menambah gambar lagi tinggal nambahin begin{subfigure} -> end{subfigure}
+  \begin{subfigure}[b]{0.4\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{img/contohgambar.png}
+    \caption{Ini Caption sub 1\label{fig:inisub1}}
+  \end{subfigure}
+  \hspace{1cm}
+  \begin{subfigure}[b]{0.4\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{img/contohgambar.png}
+    \caption{Ini Caption sub 2\label{fig:inisub2}}
+  \end{subfigure}
+  \caption{Caption kedua gambar\label{fig:keduagambar}}
+\end{figure}
