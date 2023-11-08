@@ -8,6 +8,8 @@ Template ini dibuat dengan menggunakan LaTeX dan template yang digunakan adalah 
 
 > file PDF Laporan dari template ini bisa dilihat di [sini](https://zer0-911.github.io/template_laporan_praktikum_wortel/laporan.pdf)
 
+Jika anda ingin memakai template ini di **Overleaf** dapat menggunakan link di [sini](https://www.overleaf.com/read/tmgjqzhrkynk#be528b).
+
 ## Panduan Instalasi LaTeX
 
 ### 1. Instalasi distribusi TeX:
@@ -61,3 +63,5 @@ Setelah instalasi, Anda dapat memulai dengan membuat file baru dengan ekstensi `
 ## Kontribusi
 
 Kami sangat terbuka terhadap kontribusi dari semua pihak. Jika Anda ingin berkontribusi dengan memperbaiki atau melengkapi template ini, silakan buat _pull request_ ke repositori template kami.
+
+## Lisensi
