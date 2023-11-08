@@ -6,7 +6,7 @@
 
 Template ini dibuat dengan menggunakan LaTeX dan template yang digunakan adalah template laporan praktikum workshop telematika.
 
-> file PDF Buku dari modul ini bisa dilihat di [sini](https://zer0-911.github.io/template_laporan_praktikum_wortel/laporan.pdf)
+> file PDF Laporan dari template ini bisa dilihat di [sini](https://zer0-911.github.io/template_laporan_praktikum_wortel/laporan.pdf)
 
 ## Panduan Instalasi LaTeX
 
